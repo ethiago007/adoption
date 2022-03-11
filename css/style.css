@@ -1,0 +1,13 @@
+.wallpaper {
+  background-image: url(./pexels-pixabay-45170.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading {
+  text-align: center;
+  color: brown;
+}
+.welcome {
+  margin-left: 700px;
+}
