@@ -1,4 +1,4 @@
-.wallpaper {
+body {
   background-image: url(./pexels-pixabay-45170.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -6,8 +6,20 @@
 }
 .heading {
   text-align: center;
-  color: brown;
+  font-size: 50px;
+  color: tomato;
 }
-.welcome {
-  margin-left: 700px;
+.services {
+  text-align: center;
+  font-size: xx-large;
+  color: tomato;
+}
+.row {
+  margin-left: 100px;
+}
+.wallpaper {
+  margin-top: 200px;
+}
+.navbar {
+  
 }
