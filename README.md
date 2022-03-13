@@ -15,7 +15,7 @@ The site contains information about an adoption website which goes by the name "
 ### KNOWN BUGS
 * NONE
 ## WEBPAGE LINK
-https://ethiago007.github.io/flashcard
+ https://ethiago007.github.io/adoption/
 ## CONTACT INFORMATION
 * +2349064252791 (calls and WhatsApp)
 * mohammedkamaldeen204@gmail.com
