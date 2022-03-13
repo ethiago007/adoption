@@ -3,6 +3,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  filter: brightness(50%) ;
 }
 .heading {
   text-align: center;
@@ -30,4 +31,8 @@ footer {
 }
 .dog {
   text-align: center;
+}
+.about {
+  font-size: large;
+  font-weight: bold;
 }
