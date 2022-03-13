@@ -20,6 +20,11 @@ body {
 .wallpaper {
   margin-top: 200px;
 }
-.navbar {
-  
+.nav-item {
+  margin: 60px;
+}
+footer {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
 }
